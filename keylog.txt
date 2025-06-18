@@ -1,0 +1,1 @@
+[Key.esc][Key.esc][Key.esc][Key.esc][Key.esc][Key.esc][Key.esc][Key.esc][Key.esc][Key.down][Key.up][Key.up][Key.up][Key.esc][Key.esc][Key.esc][Key.esc][Key.esc][Key.esc][Key.shift][Key.esc][Key.esc]
